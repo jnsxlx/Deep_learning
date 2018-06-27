@@ -1,4 +1,4 @@
-# Deep_learning
+# Deep learning
 A tensorflow implementation of deep learning.
 
 Problem: Marketplace lenders list customers’ loans for funding without verifying their information. What we want to do is try to predict whether a loan will be successfully originated or not.
